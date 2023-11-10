@@ -1,0 +1,1 @@
+This app is a simple fullscreen clock that displays the current time, day and date. It also keeps the screen on (prevents the device from sleeping) as long as the app is on screen.
